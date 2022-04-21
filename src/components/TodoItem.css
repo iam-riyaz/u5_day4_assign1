@@ -1,0 +1,19 @@
+.list{
+   font-size: 30px;
+   width: 450px;
+   border: 1px solid rgba(0, 0, 0, 0.614);
+   border-radius: 5px;
+   padding: 7px;
+   display: block;
+   margin: auto;
+   
+}
+.btnclass{
+    height: 50px;
+    
+    font-size: 30px;
+    border: 0px;
+    background-color: antiquewhite;
+    padding: 5px;
+    border-radius: 5px;
+}

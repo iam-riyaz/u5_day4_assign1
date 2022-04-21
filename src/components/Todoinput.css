@@ -1,0 +1,17 @@
+
+.addbtn{
+    width:50px ;
+    font-size: 30px;
+    
+}
+.addbtn,.inputclass{
+    border-radius: 5px ;
+    border: 0px;
+    height: 50px;
+    
+}
+.inputclass{
+    border: 1px solid rgba(0, 0, 0, 0.29);
+    width: 400px;
+    font-size: 30px;
+}
